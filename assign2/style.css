@@ -1,0 +1,18 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  color: cornflowerblue;
+}
+
+.clicked {
+  background-color: tomato;
+}
+
+.clicked2 {
+  background-color: teal;
+}
+.clicked3 {
+  background-color: blue;
+}
