@@ -1,0 +1,18 @@
+.number-box {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+}
+
+.hidden {
+  display: none;
+}
+
+.end {
+  font-size: 25px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
