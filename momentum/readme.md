@@ -1,4 +1,4 @@
-# input, localstorage, hidden ( display : none )
+# greetings.js / input, localstorage, hidden ( display : none )
 
 input에 값을 넣음. 그 값이 localstorage에 저장됨.
 USERNAME_KEY와 value (username)으로 구성.
